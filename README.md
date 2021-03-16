@@ -137,7 +137,7 @@
 [XAttacker v10 Tool ☣ Website Vulnerability Scanner & Auto Exploiter](https://youtu.be/clYspp2G2jA)
 <hr>
 <h2>📧 Contact</h2>
-<lh3>You Want Ask About All My Tools Or Buy Tools/Exploits Private Add Me On : </h3><br>
+<h3>You Want Ask About All My Tools Or Buy Tools/Exploits Private Add Me On : </h3><br>
  ICQ : moham3driahi <br>Telegram : moham3driahi <br>E-mail : moham3driahi@gmail.com
 <hr>
 <hr>
@@ -156,6 +156,7 @@ chmod +x install.sh && ./install.sh
 Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
 ```bash
+sudo cpan install JSON
 git clone https://github.com/Moham3dRiahi/Th3inspector.git
 cd Th3inspector
 chmod +x install.sh && ./install.sh
